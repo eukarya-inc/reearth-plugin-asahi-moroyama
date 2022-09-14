@@ -2,6 +2,12 @@ id: asahi-moroyama-plugin
 name: Asahi Moroyama Plugin
 version: 1.0.0
 extensions:
-  - id: test-widget
+  - id: asahi-moroyama-plugin
     type: widget
-    name: Test
+    name: Asahi Moroyama Plugin
+  # schema:
+  #     - id: icon
+  #       fields:
+  #         - id: url
+  #           type: url
+  #           title: Icon
